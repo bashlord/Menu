@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hazel</key>
+	<array>
+		<string>Hazelnut Latte</string>
+	</array>
+	<key>citron</key>
+	<array>
+		<string>Citron</string>
+	</array>
+	<key>seng</key>
+	<array>
+		<string>Assorted Herbs</string>
+	</array>
+	<key>ginger</key>
+	<array>
+		<string>Ginger</string>
+	</array>
+	<key>jobs</key>
+	<array>
+		<string>Job&apos;s Tears</string>
+	</array>
+	<key>juju</key>
+	<array>
+		<string>Jujube</string>
+	</array>
+	<key>coco</key>
+	<array>
+		<string>Hot Coco</string>
+	</array>
+	<key>cap</key>
+	<array>
+		<string>Cappuccino</string>
+	</array>
+	<key>greentea</key>
+	<array>
+		<string>Jasmine Tea</string>
+		<string>Ice Green Tea</string>
+	</array>
+	<key>peach</key>
+	<array>
+		<string>Peach</string>
+	</array>
+	<key>yogurt</key>
+	<array>
+		<string>Yogurt</string>
+	</array>
+	<key>almond</key>
+	<array>
+		<string>Almond Latte</string>
+		<string>Almond</string>
+	</array>
+	<key>kiwi</key>
+	<array>
+		<string>Kiwi</string>
+	</array>
+	<key>peanutbutter</key>
+	<array>
+		<string>Peanut Butter</string>
+	</array>
+	<key>americano</key>
+	<array>
+		<string>Ice Americano</string>
+		<string>Americano</string>
+	</array>
+	<key>lemonade</key>
+	<array>
+		<string>Lemonade</string>
+	</array>
+	<key>pineapple</key>
+	<array>
+		<string>Pineapple</string>
+	</array>
+	<key>banana</key>
+	<array>
+		<string>Banana</string>
+	</array>
+	<key>lychee</key>
+	<array>
+		<string>Lychee</string>
+	</array>
+	<key>pistachio</key>
+	<array>
+		<string>Pistachio</string>
+	</array>
+	<key>blacktea</key>
+	<array>
+		<string>Ice Black Tea</string>
+	</array>
+	<key>mango</key>
+	<array>
+		<string>Mango</string>
+	</array>
+	<key>raspberry</key>
+	<array>
+		<string>Raspberry</string>
+	</array>
+	<key>cafelatte</key>
+	<array>
+		<string>Cafe Latte</string>
+	</array>
+	<key>matcha</key>
+	<array>
+		<string>Green Tea Latte</string>
+		<string>Green Tea</string>
+	</array>
+	<key>redbean</key>
+	<array>
+		<string>Red Bean</string>
+	</array>
+	<key>cafemocha</key>
+	<array>
+		<string>Boba Mocha Coffee</string>
+		<string>Cafe Mocha</string>
+	</array>
+	<key>melon</key>
+	<array>
+		<string>Honeydew Melon</string>
+	</array>
+	<key>strawberry</key>
+	<array>
+		<string>Strawberry</string>
+	</array>
+	<key>caramel</key>
+	<array>
+		<string>Caramel Frappe</string>
+	</array>
+	<key>milktea</key>
+	<array>
+		<string>Milk Tea</string>
+	</array>
+	<key>taro</key>
+	<array>
+		<string>Taro Latte</string>
+		<string>Taro</string>
+	</array>
+	<key>caramelmacchiato</key>
+	<array>
+		<string>Caramel Macchiato</string>
+		<string>Ice Caramel Macchiato</string>
+	</array>
+	<key>mintchocolatechip</key>
+	<array>
+		<string>Mint Chocolate Chip</string>
+	</array>
+	<key>thaitea</key>
+	<array>
+		<string>Thai Tea</string>
+	</array>
+	<key>chai</key>
+	<array>
+		<string>Chai Tea</string>
+		<string>Chai Latte</string>
+		<string>Chai</string>
+	</array>
+	<key>mixedgrain</key>
+	<array>
+		<string>Mixed Grain</string>
+	</array>
+	<key>vanilla</key>
+	<array>
+		<string>Vanilla Latte</string>
+		<string>Vanilla Frappe</string>
+	</array>
+	<key>coconut</key>
+	<array>
+		<string>Coconut</string>
+	</array>
+	<key>mocha</key>
+	<array>
+		<string>Mocha Coffee</string>
+		<string>Mocha Frappe</string>
+	</array>
+	<key>watermelon</key>
+	<array>
+		<string>Watermelon</string>
+	</array>
+	<key>coffee</key>
+	<array>
+		<string>Coffee</string>
+		<string>Coffee Frappe</string>
+		<string>Boba Coffee</string>
+	</array>
+	<key>oreo</key>
+	<array>
+		<string>Oreo</string>
+	</array>
+	<key>whitecafemocha</key>
+	<array>
+		<string>White Cafe Mocha</string>
+	</array>
+	<key>greenapple</key>
+	<array>
+		<string>Green Apple</string>
+	</array>
+	<key>passionfruit</key>
+	<array>
+		<string>Passion Fruit</string>
+	</array>
+</dict>
+</plist>

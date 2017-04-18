@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Iced1</key>
+	<array>
+		<string>Thai Tea</string>
+		<string>Ice Caramel Macchiato</string>
+		<string>Boba Mocha Coffee</string>
+		<string>Boba Coffee</string>
+		<string>Milk Tea</string>
+	</array>
+	<key>Hot3</key>
+	<array>
+		<string>Chai Latte</string>
+		<string>Almond Latte</string>
+		<string>Taro Latte</string>
+		<string>Green Tea Latte</string>
+	</array>
+	<key>Hot2</key>
+	<array>
+		<string>Hazelnut Latte</string>
+		<string>Cafe Mocha</string>
+		<string>Vanilla Latte</string>
+		<string>Caramel Macchiato</string>
+		<string>White Cafe Mocha</string>
+	</array>
+	<key>Hot1</key>
+	<array>
+		<string>Cafe Latte</string>
+		<string>Cappuccino</string>
+		<string>Hot Coco</string>
+	</array>
+	<key>FlavorMilkTea</key>
+	<array>
+		<string>Taro</string>
+		<string>Almond</string>
+		<string>Coconut</string>
+		<string>Chai</string>
+		<string>Green Tea</string>
+	</array>
+	<key>Etc</key>
+	<array/>
+	<key>Traditional</key>
+	<array>
+		<string>Jujube</string>
+		<string>Citron</string>
+		<string>Job&apos;s Tears</string>
+		<string>Ginger</string>
+		<string>Assorted Herbs</string>
+	</array>
+	<key>Hot0</key>
+	<array>
+		<string>Chai Tea</string>
+		<string>Jasmine Tea</string>
+		<string>Green Tea</string>
+		<string>Americano</string>
+		<string>Coffee</string>
+	</array>
+	<key>Iced0</key>
+	<array>
+		<string>Ice Black Tea</string>
+		<string>Ice Green Tea</string>
+		<string>Ice Americano</string>
+	</array>
+	<key>Frappes</key>
+	<array>
+		<string>Coffee Frappe</string>
+		<string>Vanilla Frappe</string>
+		<string>Caramel Frappe</string>
+		<string>Mocha Frappe</string>
+	</array>
+	<key>FruitTea</key>
+	<array>
+		<string>Strawberry</string>
+		<string>Peach</string>
+		<string>Mango</string>
+		<string>Lychee</string>
+		<string>Passion Fruit</string>
+		<string>Pineapple</string>
+		<string>Green Apple</string>
+	</array>
+	<key>Slushies</key>
+	<array>
+		<string>Strawberry</string>
+		<string>Peach</string>
+		<string>Mango</string>
+		<string>Lychee</string>
+		<string>Kiwi</string>
+		<string>Green Apple</string>
+		<string>Passion Fruit</string>
+		<string>Watermelon</string>
+		<string>Pineapple</string>
+		<string>Lemonade</string>
+	</array>
+	<key>Smoothies</key>
+	<array>
+		<string>Mixed Grain</string>
+		<string>Peanut Butter</string>
+		<string>Mint Chocolate Chip</string>
+		<string>Coconut</string>
+		<string>Chai</string>
+		<string>Oreo</string>
+		<string>Lemonade</string>
+		<string>Almond</string>
+		<string>Kiwi</string>
+		<string>Red Bean</string>
+		<string>Yogurt</string>
+		<string>Honeydew Melon</string>
+		<string>Pineapple</string>
+		<string>Pistachio</string>
+		<string>Passion Fruit</string>
+		<string>Green Apple</string>
+		<string>Green Tea</string>
+		<string>Lychee</string>
+		<string>Mango</string>
+		<string>Banana</string>
+		<string>Taro</string>
+		<string>Kiwi</string>
+		<string>Raspberry</string>
+		<string>Peach</string>
+		<string>Strawberry</string>
+	</array>
+</dict>
+</plist>
